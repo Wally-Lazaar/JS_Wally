@@ -6,7 +6,7 @@ document.getElementsByTagName("footer")[0].addEventListener("click", function(){
 	console.log(`Click number ${footerCounter}`);
 });
 
-//fonctionalité 2 : Tel que demande dans le cour (ne marche pas :o)
+//fonctionalité 2 : 
 
 document.getElementsByClassName("navbar-toggler")[0].addEventListener("click", function(){
   document.getElementById("navbarHeader").classList.toggle("collapse");
